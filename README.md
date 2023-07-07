@@ -4,7 +4,12 @@ The Snake game was a simple console-based game implemented in C++. It involved c
 
 ### Functionality
 
-- The game allowed the player to control the snake's movements using the keyboard inputs: ‘a’ for left,’d’ for right, ‘w’ for up, ‘s’ for down, and ‘e’ to quit the game.
+- The game allowed the player to control the snake's movements using the keyboard inputs:
+  ‘a’ for left,
+  ’d’ for right,
+  ‘w’ for up,
+  ‘s’ for down, and
+  ‘e’ to quit the game.
 - The snake's position and direction were updated automatically based on the player's input.
 - The objective was to eat the food symbolised by the `F` character on the screen to increase the snake's length and score.
 - Collisions with the snake's own body or the game borders resulted in game over.
