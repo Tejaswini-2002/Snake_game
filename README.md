@@ -15,7 +15,7 @@ The Snake game was a simple console-based game implemented in C++. It involved c
 
 ### Implementation
 
-- The game was implemented using C++ and utilized standard libraries such as ‘<iostream>’, ‘<conio.h>’, ‘<windows.h>’ and ‘<fstream>’.
+- The game was implemented using C++ and utilized standard libraries such as  ‘<conio.h>’ and ‘<windows.h>’.
 - The code consisted of various functions responsible for different aspects of the game.
 - Global variables were used to keep track of the game state, including the snake's position, target position, score, tail coordinates, and current game level.
 - Additional functions were defined for saving and loading the highest score from the ‘high_score.txt’ file.
